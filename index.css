@@ -1,0 +1,26 @@
+:root {
+    dark-blue: #1f2937;
+    white-text: #f9faf8;
+    offwhite-text: #e5e7eb;
+    light-blue: #3882f6;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+header,
+#hero-container {
+    background-color: var(dark-blue);
+    color: var(offwhite-text);
+
+}
+
+.bold-text {
+    color: var(white-text);
+}
